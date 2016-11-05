@@ -1,0 +1,10 @@
+name: SatoshiBottle
+version: 1.0
+main: com.satoshicraft.bottle.Main
+description: Transferir XP para frasco.
+
+commands:
+    satoshixp:
+        usage: /<command>
+        aliases: [bottle,sbottle,satoshibottle,satoshiengarrafar,engarrafar,xpbottle]
+        description: Transferir XP para frasco.
