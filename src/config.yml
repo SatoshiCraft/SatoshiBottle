@@ -1,4 +1,4 @@
-BottleName: "&6&lFrasco de XP &7(%value% XP)"
+ï»¿BottleName: "&6&lFrasco de XP &7(%value% XP)"
 BottleEnchanter: "&dEngarrafado por&r %player%"
 Value: "&dValor&r %value% XP"
 AdminName: "&dEngarrafado por &rServer"
@@ -6,17 +6,17 @@ MinXp: 1
 MaxXp: 1000000
 DropPercentage: 100
 Messages:
- NotEnough: &c"Você só tem %pxp%!"
+ NotEnough: "&cVocÃª sÃ³ tem %pxp%!"
  Xpb:
   - "&6/satoshixp <quantidade>"
   - "&7Converte xp em frasco."
  XpTransferred: 
   - "&6Seu XP foi transferido para o frasco!"
   - "&c- %takenxp% XP"
- FullInventory: "&cSeu inventário está cheio, por favor libere algum espaço."
- MinXpMessage: "&cVocê tem que transformar no minimo %minxp% XP por frasco."
- MaxXpMessage: "&cVocê só pode colocar %maxxp% em um Frasco!"
- CantFind: "&cNão foi possivel encontrar %target%!"
+ FullInventory: "&cSeu inventÃ¡rio estÃ¡ cheio, por favor libere algum espaÃ§o."
+ MinXpMessage: "&cVocÃª tem que transformar no minimo %minxp% XP por frasco."
+ MaxXpMessage: "&cVocÃª sÃ³ pode colocar %maxxp% em um Frasco!"
+ CantFind: "&cNÃ£o foi possivel encontrar %target%!"
  BottleRecive: "&6Jogador recebeu %xp%!"
- NoPermission: "&cVocê não tem permissão para usar esse comando!"
- NoNumber: "&cIsso não é um numero!"
+ NoPermission: "&cVocÃª nÃ£o tem permissÃ£o para usar esse comando!"
+ NoNumber: "&cIsso nÃ£o Ã© um numero!"
